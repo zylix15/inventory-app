@@ -1,0 +1,63 @@
+package com.example.inventory.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val md_theme_light_primary = Color(0xFF800000) // Maroon color
+val md_theme_light_onPrimary = Color(0xFFFFFFFF)
+val md_theme_light_primaryContainer = Color(0xFFF2D7D2) // Light maroon
+val md_theme_light_onPrimaryContainer = Color(0xFF3E0A00) // Dark maroon
+val md_theme_light_secondary = Color(0xFFB97F7F) // Muted maroon
+val md_theme_light_onSecondary = Color(0xFFFFFFFF)
+val md_theme_light_secondaryContainer = Color(0xFFF9E1E1) // Light maroon
+val md_theme_light_onSecondaryContainer = Color(0xFF3F1D1D) // Darker maroon
+val md_theme_light_tertiary = Color(0xFF9F5A5A) // Reddish maroon
+val md_theme_light_onTertiary = Color(0xFFFFFFFF)
+val md_theme_light_tertiaryContainer = Color(0xFFF1D0D0) // Light reddish maroon
+val md_theme_light_onTertiaryContainer = Color(0xFF3C1F1F) // Darker reddish maroon
+val md_theme_light_error = Color(0xFFB71C1C) // Dark red (error color)
+val md_theme_light_errorContainer = Color(0xFFFFE0E0) // Light red for error
+val md_theme_light_onError = Color(0xFFFFFFFF)
+val md_theme_light_onErrorContainer = Color(0xFF690000) // Darker error
+val md_theme_light_background = Color(0xFFFFF5F5) // Very light maroon background
+val md_theme_light_onBackground = Color(0xFF3A1C1C) // Dark maroon text on light background
+val md_theme_light_surface = Color(0xFFFFF5F5)
+val md_theme_light_onSurface = Color(0xFF3A1C1C)
+val md_theme_light_surfaceVariant = Color(0xFFF1D0D0) // Light maroon variant
+val md_theme_light_onSurfaceVariant = Color(0xFF3F1D1D) // Dark maroon variant
+val md_theme_light_outline = Color(0xFF9E8181) // Soft outline
+val md_theme_light_inverseOnSurface = Color(0xFFFAE1E1) // Inverse text
+val md_theme_light_inverseSurface = Color(0xFF5F1414) // Inverse surface dark maroon
+val md_theme_light_inversePrimary = Color(0xFFF2D7D2) // Light maroon for inverse
+val md_theme_light_surfaceTint = Color(0xFF800000) // Maroon tint
+val md_theme_light_outlineVariant = Color(0xFFCE9E9E) // Soft outline variant
+val md_theme_light_scrim = Color(0xFF000000)
+
+val md_theme_dark_primary = Color(0xFFD17F7F) // Lighter maroon for dark mode
+val md_theme_dark_onPrimary = Color(0xFF4B0000) // Dark maroon text
+val md_theme_dark_primaryContainer = Color(0xFF6A0E0E) // Darker maroon container
+val md_theme_dark_onPrimaryContainer = Color(0xFFF2D7D2) // Light maroon
+val md_theme_dark_secondary = Color(0xFFD9A1A1) // Lighter secondary for dark mode
+val md_theme_dark_onSecondary = Color(0xFF4B2A2A) // Darker maroon secondary
+val md_theme_dark_secondaryContainer = Color(0xFF7D4949) // Darker maroon container
+val md_theme_dark_onSecondaryContainer = Color(0xFFF9E1E1) // Light maroon for secondary container
+val md_theme_dark_tertiary = Color(0xFFD09393) // Muted reddish maroon
+val md_theme_dark_onTertiary = Color(0xFF4A2626) // Dark maroon text on tertiary
+val md_theme_dark_tertiaryContainer = Color(0xFF6A3333) // Darker reddish container
+val md_theme_dark_onTertiaryContainer = Color(0xFFF1D0D0) // Light reddish maroon
+val md_theme_dark_error = Color(0xFFFF6F6F) // Light red for error
+val md_theme_dark_errorContainer = Color(0xFF9E0000) // Darker red error container
+val md_theme_dark_onError = Color(0xFF690000) // Dark red text on error
+val md_theme_dark_onErrorContainer = Color(0xFFFFE0E0) // Light red error container
+val md_theme_dark_background = Color(0xFF2A0C0C) // Dark maroon background
+val md_theme_dark_onBackground = Color(0xFFFFF5F5) // Light maroon text on dark background
+val md_theme_dark_surface = Color(0xFF2A0C0C) // Dark maroon surface
+val md_theme_dark_onSurface = Color(0xFFFFF5F5) // Light maroon text on surface
+val md_theme_dark_surfaceVariant = Color(0xFF7A4A4A) // Darker maroon variant for dark mode
+val md_theme_dark_onSurfaceVariant = Color(0xFFE3B9B9) // Lighter maroon text for variant
+val md_theme_dark_outline = Color(0xFF9E7A7A) // Softer outline color for dark mode
+val md_theme_dark_inverseOnSurface = Color(0xFF2A0C0C) // Inverse text on surface
+val md_theme_dark_inverseSurface = Color(0xFFFFF5F5) // Inverse surface with light maroon
+val md_theme_dark_inversePrimary = Color(0xFF800000) // Maroon for inverse primary
+val md_theme_dark_surfaceTint = Color(0xFFD17F7F) // Lighter maroon tint
+val md_theme_dark_outlineVariant = Color(0xFF7A4A4A) // Soft outline variant
+val md_theme_dark_scrim = Color(0xFF000000)
